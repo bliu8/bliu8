@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Benjamin Liu</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/benliu8/">LinkedIn</a> &bull; <a href="mailto:bliu8@seas.upenn.edu">Email</a> &bull; <a href="https://github.com/bliu8">GitHub</a>
+  <a href="https://www.linkedin.com/in/benliu8/">LinkedIn</a> &bull; <a href="https://benliu.vercel.app/">Personal Website</a>
 </p>
 
 ---
