@@ -8,16 +8,6 @@
 
 ### About Me
 
-I am a student at the **University of Pennsylvania** studying Computer Science and Artificial Intelligence. 
+I am a student at the **University of Pennsylvania** studying Computer Science. 
 
-My primary interests lie at the intersection of **autonomous AI agents** and **AI/ML research**, both applied and theoretical.
-
----
-
-### GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bliu8&show_icons=true&theme=tokyonight" alt="bliu8's GitHub stats" height="150px" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bliu8&layout=compact&theme=tokyonight" alt="bliu8's top languages" height="150px" />
-</p>
+I'm currently interested in and actively exploring **autonomous AI agents** and **AI/ML research**, both applied and theoretical.
