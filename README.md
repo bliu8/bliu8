@@ -10,4 +10,4 @@
 
 I am a student at the **University of Pennsylvania** studying Computer Science. 
 
-I'm currently interested in and actively exploring **autonomous AI agents** and **AI/ML research**, both applied and theoretical.
+I'm currently interested in and actively exploring **AI agents** and **AI/ML research**, both applied and theoretical.
