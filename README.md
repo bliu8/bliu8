@@ -8,7 +8,7 @@
 
 ### About Me
 
-I am a student at the **University of Pennsylvania** studying Computer Science.
+I am an incoming sophomore at the **University of Pennsylvania** studying Computer Science.
 
 I'm currently interested in and actively exploring **AI agents** and **AI/ML research**, both applied and theoretical.
 
