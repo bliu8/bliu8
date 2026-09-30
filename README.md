@@ -14,8 +14,6 @@ I'm currently interested in and actively exploring **AI agents** and **AI/ML res
 
 ### Currently
 
-* AI/ML Engineering Intern at **SailPoint Technologies**
 * Applied ML Researcher at the **Perelman School of Medicine**, University of Pennsylvania
-* AI Intern at **Aquara.ai**
 * Backend Engineer at **Penn Labs**
 * Working on personal projects
